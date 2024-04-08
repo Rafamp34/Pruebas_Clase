@@ -12,5 +12,6 @@ package Tema2;
             System.out.println("x / y = "+ (x/y));
 
         }
+
         
     }
