@@ -1,0 +1,17 @@
+^f08d080 (Rafamp34             2024-04-08 20:29:01 +0200  1) package Tema2;
+^f08d080 (Rafamp34             2024-04-08 20:29:01 +0200  2) 
+^f08d080 (Rafamp34             2024-04-08 20:29:01 +0200  3)     public class Ejer1 {
+^f08d080 (Rafamp34             2024-04-08 20:29:01 +0200  4) 
+^f08d080 (Rafamp34             2024-04-08 20:29:01 +0200  5)     public static void main(String[] args)  {
+^f08d080 (Rafamp34             2024-04-08 20:29:01 +0200  6)             int x =144, y =999;
+^f08d080 (Rafamp34             2024-04-08 20:29:01 +0200  7)             System.out.println("x = "+ x);
+^f08d080 (Rafamp34             2024-04-08 20:29:01 +0200  8)             System.out.println("y = "+ y);
+^f08d080 (Rafamp34             2024-04-08 20:29:01 +0200  9)             System.out.println("x + y = "+ (x+y));
+^f08d080 (Rafamp34             2024-04-08 20:29:01 +0200 10)             System.out.println("x - y = "+ (x-y));
+^f08d080 (Rafamp34             2024-04-08 20:29:01 +0200 11)             System.out.println("x * y = "+ (x*y));
+^f08d080 (Rafamp34             2024-04-08 20:29:01 +0200 12)             System.out.println("x / y = "+ (x/y));
+^f08d080 (Rafamp34             2024-04-08 20:29:01 +0200 13) 
+^f08d080 (Rafamp34             2024-04-08 20:29:01 +0200 14)         }
+16600934 (Rafamp34             2024-04-08 21:13:15 +0200 15) 
+9d1ae65f (Rafamp34             2024-04-08 20:48:47 +0200 16)         
+e84bf68f (Rafael Moncayo Pérez 2024-04-08 20:31:32 +0200 17)     }
